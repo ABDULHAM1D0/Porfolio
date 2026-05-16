@@ -1,6 +1,6 @@
 # 🌐 My Portfolio
 
-## 📋 Overview
+## 📋 Overview.
 This project is a personal portfolio website developed to showcase my CV, skills, projects, and contact information.  
 The website includes an admin dashboard for managing content and provides a responsive user-friendly interface across different devices.
 
