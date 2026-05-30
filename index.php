@@ -1,7 +1,7 @@
 <?php require 'includes/db.php'; ?>
 <?php include 'includes/header.php'; ?>
 
-<!-- HERO -->
+<!-- HERO --->
 <section id="home-section" class="section" style="padding: 0; min-height: 100vh;">
   <div class="hero-grid"></div>
   <div class="hero-blob"></div>
