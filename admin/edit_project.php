@@ -10,7 +10,7 @@ require '../includes/db.php';
 
 $id = (int)$_GET['id'];
 
-// Handle update
+// Handle update.
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $title       = trim($_POST['title']);
     $description = trim($_POST['description']);
