@@ -57,8 +57,8 @@
 <section id="about-section" class="section section-alt">
   <div class="container">
     <div class="fade-up">
-      <p class="section-label">About Me</p>
-      <h2 class="section-title">Who <span>Am I?</span></h2>
+      <p class="section-label">About Me.</p>
+      <h2 class="section-title">Who. <span>Am I.?</span></h2>
       <div class="section-line"></div>
     </div>
     <div class="row g-5">
