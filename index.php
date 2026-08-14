@@ -17,7 +17,7 @@
           wireless systems using NOMA. Based in Istanbul, Turkey.
         </p>
         <div>
-          <a href="/portfolio/contact.php" class="btn-primary-custom">Hire Me</a>
+          <a href="/portfolio/contact.php" class="btn-primary-custom">Hire Me.</a>
           <a href="#projects-section" class="btn-outline-custom">View Projects</a>
         </div>
       </div>
